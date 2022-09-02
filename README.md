@@ -1,2 +1,2 @@
-# learningTJK
+# learning
 Aim High
